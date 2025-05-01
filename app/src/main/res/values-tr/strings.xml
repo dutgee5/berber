@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">barber</string>
+
+
+    <string name="title">Berber Dükkanı</string>
+    <string name="concentText">En İyi Saç Kesimini Burada Alın</string>
+    <string name="bookNow">Şimdi rezervasyon yapın</string>
+    <string name="login">Giriş yap</string>
+    <string name="signUp">Üye ol</string>
+</resources>
