@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">berber</string>
+    <string name="app_name">barber</string>
+
+
+    <string name="title">BarberShop</string>
+    <string name="concentText">Get the Best Haircut Here</string>
+    <string name="bookNow">Book Now</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
 </resources>
